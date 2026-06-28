@@ -17,6 +17,13 @@
 - 📫 Reach me at: **saidevaharsha07@gmail.com**
 
 ---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saidevaharsha07-art&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -41,6 +48,11 @@
 </p>
 
 ---
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidevaharsha07-art&theme=tokyo-night" />
+</p>
 
 ### 📌 Featured Projects
 
@@ -51,6 +63,14 @@
 - 📝 **Smart Todo List Python** – Python project  
 
 ---
+### 📚 Currently Learning
+
+- Java Collections Framework  
+- Data Structures and Algorithms  
+- React.js  
+- Node.js  
+- MongoDB  
+- Machine Learning Basics  
 
 ### 🌐 Connect With Me
 
