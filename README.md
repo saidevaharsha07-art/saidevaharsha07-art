@@ -1,14 +1,28 @@
 # 💫 About Me:
-🎓 Computer Science Student from India<br>☕ Currently learning **Java, Data Structures & Algorithms, React, and Web Development**<br>💻 Passionate about building projects and improving problem-solving skills<br>🌱 Always exploring new technologies and best coding practices<br>🎯 Goal: Become a Software Engineer and build impactful software<br>📫 Reach me at **[saidevaharsha07@gmail.com](mailto:saidevaharsha07@gmail.com)**
+- 🎓 Computer Science Student from India
+- ☕ Currently learning Java, Data Structures & Algorithms, React, and Web Development
+- 💻 Passionate about building projects and improving problem-solving skills
+- 🌱 Always exploring new technologies and best coding practices
+- 🎯 Goal: Become a Software Engineer and build impactful software
+- 📧 Email: **saidevaharsha07@gmail.com**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saidevaharsha07-art&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  👥 <b>Followers:</b> <i>Visible on profile</i> &nbsp;&nbsp;&nbsp;
+  🤝 <b>Following:</b> <i>Visible on profile</i>
+</p>
+
+[![](https://komarev.com/ghpvc/?username=saidevaharsha07-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-
-## 🌐 Socials
-
+<p align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saidevaharsha_07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidevaharsha07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:saidevaharsha07@gmail.com)
+</p>
 
 
 # 💻 Tech Stack:
@@ -18,13 +32,4 @@
 ![](https://streak-stats.demolab.com/?user=saidevaharsha07-art&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saidevaharsha07-art&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saidevaharsha07-art&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saidevaharsha07-art&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=saidevaharsha07-art&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
