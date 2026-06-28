@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Deva+Harsha;Java+Developer;DSA+Learner;Web+Development+Enthusiast;Future+Software+Engineer" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saidevaharsha07-art&label=Profile%20Views&color=blue&style=flat" />
+</p>
 <h1 align="center">Hi 👋, I'm Sai Deva Harsha</h1>
 <h3 align="center">CSE Student | Java & DSA Learner | Web Development Enthusiast</h3>
 
