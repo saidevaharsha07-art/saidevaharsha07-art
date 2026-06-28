@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Deva+Harsha;Java+Developer;DSA+Learner;Web+Development+Enthusiast;Future+Software+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Sai%20Deva%20Harsha&fontSize=45&fontColor=ffffff"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saidevaharsha07-art&label=Profile%20Views&color=blue&style=flat" />
@@ -20,7 +20,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saidevaharsha07-art&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=saidevaharsha07-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
