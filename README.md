@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Things" />
 </p>
 
+ ---
+ 
 # 💫 About Me:
 - 🎓 Computer Science Student from India
 - ☕ Currently learning Java, Data Structures & Algorithms, React, and Web Development
@@ -112,7 +114,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,100:00BFFF"/>
 
 ---
 
@@ -125,3 +126,5 @@
 Happy Coding 💙..
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,100:00BFFF"/>
